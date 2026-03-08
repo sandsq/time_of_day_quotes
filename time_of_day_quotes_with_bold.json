@@ -31,7 +31,7 @@
       "asin": "1419721976"
     },
     {
-      "quote": "It is <b>midnight</b>. The rain is beating on the windows. I am calm. All is sleeping. Nevertheless I get up and go to my desk. I can't sleep. ...",
+      "quote": "It is <b>midnight</b>. The rain is beating on the windows. I am calm. All is sleeping. Nevertheless I get up and go to my desk. I can't sleep.",
       "title": "Molloy",
       "author": "Samuel Beckett",
       "asin": "0802144470"
@@ -253,7 +253,7 @@
   ],
   "00:21": [
     {
-      "quote": "Nobody had been one of Mycroft Ward's most important operatives and for sixty seconds every day, between <b>12.21am</b>...",
+      "quote": "Nobody had been one of Mycroft Ward's most important operatives and for sixty seconds every day, between <b>12.21 a.m.</b>...",
       "title": "The Raw Shark Texts",
       "author": "Steven Hall",
       "asin": "1847670245"
@@ -675,7 +675,7 @@
   ],
   "01:07": [
     {
-      "quote": "Roger. Check your straps, everyone, and get ready. The engines will fire in about two minutes, at <b>01:07</b> on your GET clock. The seconds ticked away, going too fast yet seeming to take an eternity. This had to be it. Seconds to go, three more, two, one ...",
+      "quote": "\"Roger. Check your straps, everyone, and get ready. The engines will fire in about two minutes, at <b>01:07</b> on your GET clock.\"<br>The seconds ticked away, going too fast yet seeming to take an eternity. This had to be it. Seconds to go, three more, two, one...",
       "title": "Skyfall",
       "author": "Harry Harrison",
       "asin": "0689107641"
@@ -773,7 +773,7 @@
   ],
   "01:17": [
     {
-      "quote": "The clocks stopped at <b>1:17</b>. A long shear of light and then a series of low concussions. It's the end of the world...",
+      "quote": "The clocks stopped at <b>1:17</b>. A long shear of light and then a series of low concussions.",
       "title": "The Road",
       "author": "Cormac McCarthy",
       "asin": "0330468464"
@@ -1231,7 +1231,7 @@
   ],
   "02:06": [
     {
-      "quote": "And the time was <b>six minutes past two</b>... And what of Jonah? He and Harry would probably arrive about five minutes too late. I bit my lip savagely...",
+      "quote": "And the time was <b>six minutes past two</b>...<br>And what of Jonah? He and Harry would probably arrive about five minutes too late. I bit my lip savagely...",
       "title": "Berry and Co.",
       "author": "Dornford Yates",
       "asin": "B005JDS01Y"
@@ -1275,10 +1275,10 @@
       "asin": "B0082STYYU"
     },
     {
-      "quote": "If the hands didn't have to go round, the Greeks could have had miniature Parthenons on their mantelshelves with clock faces stuck into the pediments permanently showing <b>ten past two</b>...",
+      "quote": "If the hands didn't have to go round, the Greeks could have had miniature Parthenons on their mantelshelves with clock faces stuck into the pediments permanently showing <b>ten past two</b> or eight thirty-five...",
       "title": "The Dog It Was That Died",
       "author": "Tom Stoppard",
-      "asin": "0571131832"
+      "asin": "0571131832.2"
     }
   ],
   "02:11": [
@@ -1299,7 +1299,7 @@
   ],
   "02:13": [
     {
-      "quote": "You're going to a dimension that diverged from our own at <b>02.13</b> on the morning of Wednesday 20 February 1918, over twenty-six years earlier. You don't know what it's going to be like...",
+      "quote": "You're going to a dimension that diverged from our own at <b>02.13 on the morning</b> of Wednesday 20 February 1918, over twenty-six years earlier. You don't know what it's going to be like.",
       "title": "The Second Internet Cafe, Part 1: The Dimension Researcher",
       "author": "Chris James",
       "asin": "1446165620"
@@ -4689,6 +4689,12 @@
       "title": "Ulysses",
       "author": "James Joyce",
       "asin": "1840226358"
+    },
+    {
+      "quote": "If the hands didn't have to go round, the Greeks could have had miniature Parthenons on their mantelshelves with clock faces stuck into the pediments permanently showing ten past two or <b>eight thirty-five</b>...",
+      "title": "The Dog It Was That Died",
+      "author": "Tom Stoppard",
+      "asin": "0571131832.2"
     }
   ],
   "08:36": [
