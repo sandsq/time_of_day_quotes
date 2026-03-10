@@ -20,3 +20,7 @@ This respository contains a collection of quotes from books and poems that menti
 1. Straight quotes (`'` and `"`) should be used over curly quotes (`’` and `”`). 
 1. Double quotes should be used for dialogue, scare quotes, etc.
 1. If a quote containing dialogue cuts off the full text and leaves a dangling quotation mark, the opening / closing mark should be added.
+1. Use three periods instead of the ellipse character.
+1. Avoid leading or trailing ellipses if they are not actually part of the quote. Instead, just start or end the quote as if it beigns or ends there.
+1. Do not place spaces on either side of an ellipse.
+    1. However, if the ellipse ends a sentence, a space should be added after it.

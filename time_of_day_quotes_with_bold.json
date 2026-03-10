@@ -1163,7 +1163,7 @@
   ],
   "01:59": [
     {
-      "quote": "For twenty minutes he sat and watched as the gap between the ship and Epun closed, as the ship's computer teased and kneaded the numbers that would bring it into a loop around the little moon, and close the loop and keep it there, orbiting in perpetual obscurity. \"<b>One ... fifty-nine</b> ...\"",
+      "quote": "For twenty minutes he sat and watched as the gap between the ship and Epun closed, as the ship's computer teased and kneaded the numbers that would bring it into a loop around the little moon, and close the loop and keep it there, orbiting in perpetual obscurity. \"<b>One...fifty-nine</b>...\"",
       "title": "So Long, and Thanks for All the Fish",
       "author": "Douglas Adams",
       "asin": "B003GK21D0"
@@ -1553,10 +1553,11 @@
   ],
   "02:44": [
     {
-      "quote": "\"... You got here at <b>sixteen minutes to three</b>.\" Ronn looked at his watch. ",
+      "quote": "\"You got here at <b>sixteen minutes to three</b>.\"<br>Ronn looked at his watch.",
       "title": "The Abominable Man",
       "author": "Maj Sjöwall",
-      "asin": "B002RI9QWG"
+      "asin": "B002RI9QWG",
+      "notes": "source has other times right around it"
     }
   ],
   "02:45": [
@@ -2141,10 +2142,11 @@
   ],
   "03:50": [
     {
-      "quote": "She had used her cell phone to leave several messages on the answering machine in Sao Paulo of the young dentist of the previous evening, whose name was Fernando. The first was recorded at <b>ten or five to four in the morning</b>. I'm never going to forget you ... I'm sure we'll meet again somewhere.",
+      "quote": "She had used her cell phone to leave several messages on the answering machine in Sao Paulo of the young dentist of the previous evening, whose name was Fernando. The first was recorded at <b>ten or five to four in the morning</b>. I'm never going to forget you...I'm sure we'll meet again somewhere.",
       "title": "A Death in Brazil: A Book of Omissions",
       "author": "Peter Robb",
-      "asin": "0747573166"
+      "asin": "0747573166",
+      "notes": "has italics"
     }
   ],
   "03:51": [
@@ -2743,10 +2745,11 @@
   ],
   "04:57": [
     {
-      "quote": "The second said the same thing <b>a few minutes before five</b>, and mentioned eternity... I'm sure I'll meet you in the other world. Four minutes later she left a last, fleeting message: My love. Fernando. It's Suzana. Then, it seemed, she had shot herself.",
+      "quote": "The second said the same thing <b>a few minutes before five</b>, and mentioned eternity...I'm sure I'll meet you in the other world. Four minutes later she left a last, fleeting message: My love. Fernando. It's Suzana. Then, it seemed, she had shot herself.",
       "title": "A Death in Brazil: A Book of Omissions",
       "author": "Peter Robb",
-      "asin": "0747573166"
+      "asin": "0747573166",
+      "notes": "has italics"
     }
   ],
   "04:58": [
@@ -3625,7 +3628,7 @@
   ],
   "06:36": [
     {
-      "quote": "\"Uh, we got a call, at, ummm ... <b>06:36</b> ... and I sent Eight up on it. He got there, and thinks we should, uh, probably have you come up and take a look.\" Her voice seemed to be about an octave higher than usual. \"Eight\" referred to Nation County Sheriff's Car Eight, the radio call sign of Tom Borman, a newish deputy with about two years' service.",
+      "quote": "\"Uh, we got a call, at, ummm...<b>06:36</b>...and I sent Eight up on it. He got there, and thinks we should, uh, probably have you come up and take a look.\" Her voice seemed to be about an octave higher than usual. \"Eight\" referred to Nation County Sheriff's Car Eight, the radio call sign of Tom Borman, a newish deputy with about two years' service.",
       "title": "Code 61",
       "author": "Donald Harstad",
       "asin": "1841155306"
@@ -4283,7 +4286,7 @@
   ],
   "07:53": [
     {
-      "quote": "\"What time is it?\"<br>\"<b>Seven to eight</b>. Won't be long now ...\"",
+      "quote": "\"What time is it?\"<br>\"<b>Seven to eight</b>. Won't be long now.\"",
       "title": "Never Go Back",
       "author": "Robert Goddard",
       "asin": "B0031RS72W"
@@ -4785,7 +4788,7 @@
   ],
   "08:46": [
     {
-      "quote": "Petrov undoubtedly had the remote, so there was no question now that the asshole had reset the time from <b>08:46</b> to... now.",
+      "quote": "Petrov undoubtedly had the remote, so there was no question now that the asshole had reset the time from <b>08:46</b> to...now.",
       "title": "Radiant Angel",
       "author": "Nelson DeMille",
       "asin": "0446699624"
@@ -6369,7 +6372,7 @@
   ],
   "11:40": [
     {
-      "quote": "Did escape occur to him? ... But the door was locked, and the window heavily barred with iron rods. He sat down again, and drew his journal from his pocket. On the line where these words were written, \"21st December, Saturday, Liverpool,\" he added, \"80th day, <b>11.40am</b>,\" and waited.",
+      "quote": "But the door was locked, and the window heavily barred with iron rods. He sat down again, and drew his journal from his pocket. On the line where these words were written, \"21st December, Saturday, Liverpool,\" he added, \"80th day, <b>11.40am</b>,\" and waited.",
       "title": "Around the World in Eighty Days",
       "author": "Jules Verne",
       "asin": "B00A736NRO"
