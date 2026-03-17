@@ -24,3 +24,8 @@ This respository contains a collection of quotes from books and poems that menti
 1. Avoid leading or trailing ellipses if they are not actually part of the quote. Instead, just start or end the quote as if it beigns or ends there.
 1. Do not place spaces on either side of an ellipse.
     1. However, if the ellipse ends a sentence, a space should be added after it.
+
+## Implementations
+For Linux users, you can find my eww configuration [here](https://github.com/sandsq/nixos-config/tree/main/dotfiles/eww).
+
+For Windows users, you can find a Rainmeter skin [here](https://github.com/sandsq/rainmeter-timequotes).
