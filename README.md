@@ -28,4 +28,4 @@ This respository contains a collection of quotes from books and poems that menti
 ## Implementations
 For Linux users, you can find my eww configuration [here](https://github.com/sandsq/nixos-config/tree/main/dotfiles/eww).
 
-For Windows users, you can find a Rainmeter skin [here](https://github.com/sandsq/rainmeter-timequotes).
+For Windows users, you can find a Rainmeter skin [here](https://github.com/sandsq/litchrono-rainmeter).
