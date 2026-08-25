@@ -12,7 +12,7 @@
       "title": "Wuthering Heights",
       "author": "Emily Brontë",
       "asin": "1853260010",
-      "weight": 1.0
+      "weight": 2.0
     },
     {
       "quote": "Bernardo: 'Tis now struck <b>twelve</b>. Get thee to bed, Francisco.",
@@ -74,6 +74,13 @@
       "quote": "The horses arrived, even before they were expected, and Colonel Brandon only pressing her hand with a look of solemnity, and a few words spoken too low to reach her ear, hurried into the carriage. It was then about <b>twelve o'clock</b>, and she returned to her sister's apartment to wait for the arrival of the apothecary, and to watch by her the rest of the night.",
       "title": "Sense and Sensibility",
       "author": "Jane Austen",
+      "asin": "",
+      "weight": 2.0
+    },
+    {
+      "quote": "The <b>midnight</b> wind came wild and dread,<br>Swelled with the voices of the dead;",
+      "title": "The Lady of the Lake",
+      "author": "Walter Scott",
       "asin": "",
       "weight": 2.0
     }
@@ -7650,6 +7657,20 @@
       "quote": "About <b>noon</b>, however, she began—but with a caution—a dread of disappointment, which for some time kept her silent, even to her friend—to fancy, to hope she could perceive a slight amendment in her sister's pulse;—she waited, watched, and examined it again and again;—and at last, with an agitation more difficult to bury under exterior calmness, than all her foregoing distress, ventured to communicate her hopes.",
       "title": "Sense and Sensibility",
       "author": "Jane Austen",
+      "asin": "",
+      "weight": 2.0
+    },
+    {
+      "quote": "The mountain mist took form and limb<br>Of <b>noontide</b> hag or goblin grim;",
+      "title": "The Lady of the Lake",
+      "author": "Walter Scott",
+      "asin": "",
+      "weight": 2.0
+    },
+    {
+      "quote": "The oak and birch with mingled shade<br>At <b>noontide</b> there a twilight made,<br>Unless when short and sudden shone<br>Some straggling beam on cliff or stone,",
+      "title": "The Lady of the Lake",
+      "author": "Walter Scott",
       "asin": "",
       "weight": 2.0
     }
