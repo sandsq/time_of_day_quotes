@@ -1,0 +1,12 @@
+#!/bin/sh
+set -eu
+
+file='time_of_day_quotes_with_bold.json'
+
+# Do not touch the file for commits that do not include it.
+if ! git diff --cached --name-only --diff-filter=ACMR | grep -Fqx "$file"; then
+  exit 0
+fi
+
+python3 scripts/format_time_of_day_quotes.py --file "$file"
+git add -- "$file"
