@@ -94,7 +94,7 @@
       "weight": 1.0
     },
     {
-      "quote": "\"At this hour?\" Leena's eyes swerved to the heavy grandfather clock in the hallway, but she could not see the hand within the dim light of Mrs. Van's lantern. \"It must be near <b>midnight</b>.\"<br>\"<b>Only just after</b>.\" Mrs. Van nodded at her nightgown. \"Make haste with your attire, Miss Al-Sayer. The master does not like to be kept waiting.\"",
+      "quote": "\"At this hour?\" Leena's eyes swerved to the heavy grandfather clock in the hallway, but she could not see the hand within the dim light of Mrs. Van's lantern. \"It must be <b>near midnight</b>.\"<br>\"<b>Only just after</b>.\" Mrs. Van nodded at her nightgown. \"Make haste with your attire, Miss Al-Sayer. The master does not like to be kept waiting.\"",
       "title": "Weavingshaw",
       "author": "Heba Al-Wasity",
       "asin": "",
@@ -933,6 +933,13 @@
       "author": "Charles Dickens",
       "asin": "",
       "weight": 2.0
+    },
+    {
+      "quote": "Leena was about to encircle her bed with salt when a knock came at her door at a <b>quarter past one in the morning</b>. She'd stayed awake later than usual in the despairing hope that Lord Avon would come forth, but he remained bitterly elusive.",
+      "title": "Weavingshaw",
+      "author": "Heba Al-Wasity",
+      "asin": "",
+      "weight": 2.0
     }
   ],
   "01:16": [
@@ -1743,7 +1750,7 @@
       "weight": 1.0
     },
     {
-      "quote": "It was half past two in the morning; not even the servants stirred when St. Silas led the Al-Sayers into the wine cellar.",
+      "quote": "It was <b>half past two in the morning</b>; not even the servants stirred when St. Silas led the Al-Sayers into the wine cellar.",
       "title": "Weavingshaw",
       "author": "Heba Al-Wasity",
       "asin": "",
