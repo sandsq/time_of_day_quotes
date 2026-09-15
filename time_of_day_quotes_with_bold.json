@@ -8702,6 +8702,13 @@
       "author": "Jessica Cornwell",
       "asin": "1848666756",
       "weight": 1.0
+    },
+    {
+      "quote": "Eating lunch at <b>1:27</b> is much too late.",
+      "title": "",
+      "author": "Strawberry",
+      "asin": "",
+      "weight": 1.0
     }
   ],
   "13:28": [
@@ -12680,6 +12687,13 @@
       "author": "Edgar Pangborn",
       "asin": "B018PLGJ6O",
       "weight": 1.0
+    },
+    {
+      "quote": "I SHALL COME FOR THEE AT <b>SEVEN FORTY-SIX</b>, WHEN THE SUN SINKS BELOW THE MOUNTAINS.",
+      "title": "",
+      "author": "Inakha",
+      "asin": "",
+      "weight": 1.0
     }
   ],
   "19:47": [
@@ -15420,24 +15434,6 @@
       "title": "Clariel",
       "author": "Garth Nix",
       "asin": "B00KK6FK40",
-      "weight": 1.0
-    }
-  ],
-  "19:46": [
-    {
-      "quote": "I SHALL COME FOR THEE AT <b>SEVEN FORTY-SIX</b>, WHEN THE SUN SINKS BELOW THE MOUNTAINS.",
-      "title": "",
-      "author": "Inakha",
-      "asin": "",
-      "weight": 1.0
-    }
-  ],
-  "13:27": [
-    {
-      "quote": "Eating lunch at <b>1:27</b> is much too late.",
-      "title": "",
-      "author": "Strawberry",
-      "asin": "",
       "weight": 1.0
     }
   ]
