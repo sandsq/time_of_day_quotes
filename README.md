@@ -25,6 +25,20 @@ This respository contains a collection of quotes from books and poems that menti
 1. Do not place spaces on either side of an ellipse.
     1. However, if the ellipse ends a sentence, a space should be added after it.
 
+## Contributing
+
+In order to make adding quotes easier, you can append quotes to the end of the file, and a CI workflow on GitHub will auto-merge the appended quotes with the relevant times. This is not a problem when editing with the GitHub GUI, but a bit annoying using git. For a pre-commit hook that does this, run
+
+```sh
+git config core.hooksPath .githooks
+```
+
+You can also run the reformatter manually with:
+
+```sh
+python3 scripts/format_time_of_day_quotes.py
+```
+
 ## Implementations
 For Linux users, you can find my eww configuration [here](https://github.com/sandsq/nixos-config/tree/main/dotfiles/eww).
 
