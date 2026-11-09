@@ -1,5 +1,5 @@
 # Time of day quotes
-This respository contains a collection of quotes from books and poems that mention a specific time of day. They are based on the [Literary Clock project](https://www.literaryclock.com/) with various additions from me and my friends.
+This repository contains a collection of quotes from books and poems that mention a specific time of day. They are based on the [Literary Clock project](https://www.literaryclock.com/) with various additions from me and my friends.
 
 ## Quote guidelines
 * Exact times, e.g., `14:22`, `2:22am/pm`, `noon`, etc. are straightforward.
@@ -17,7 +17,7 @@ This respository contains a collection of quotes from books and poems that menti
 1. `o'clock` should be included within the tags.
 1. `hours` should be included within the tags when referring to the time, e.g., `1400 hours`.
 1. Punctuation at the beginning or end of a time-of-day should not be included within the tags unless it comes from `A.M. / P.M.`.
-1. Straight quotes (`'` and `"`) should be used over curly quotes (`’` and `”`). 
+1. ~~Straight quotes (`'` and `"`) should be used over curly quotes (`’` and `”`).~~
 1. Double quotes should be used for dialogue, scare quotes, etc.
 1. If a quote containing dialogue cuts off the full text and leaves a dangling quotation mark, the opening / closing mark should be added.
 1. Use three periods instead of the ellipse character.
