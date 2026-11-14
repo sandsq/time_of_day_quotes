@@ -1337,6 +1337,13 @@
       "author": "Michael Bond",
       "asin": "B007H99DGE",
       "weight": 1.0
+    },
+    {
+      "quote": "Pam took a backstreet that ran parallel to Main.<br>“Now what’s our time?”<br>“<b>1:49 a.m.</b>”<br>“Can we actually see her on camera?”<br>“Weird.”",
+      "title": "Wayward",
+      "author": "Blake Crouch",
+      "asin": "",
+      "weight": 2.0
     }
   ],
   "01:50": [
@@ -1448,6 +1455,13 @@
       "author": "Douglas Adams",
       "asin": "B003GK21D0",
       "weight": 1.0
+    },
+    {
+      "quote": "You were there. The night of Alyssa’s death, you were watching when she and Kate split up.<br>Ted said, “Maybe if you told me what you’re looking for, I could help you.”<br>At <b>1:59</b>, Pam started moving south.And then you followed Alyssa.",
+      "title": "Wayward",
+      "author": "Blake Crouch",
+      "asin": "",
+      "weight": 2.0
     }
   ],
   "02:00": [
@@ -1540,6 +1554,13 @@
       "quote": "“The driver sustained minimal injuries, while the boy...”<br>Jonah swallowed hard, eyes widening as Dr. Simmons applied an ointment to his face. “What... what happened to him?”<br>Dr. Simmons cleared his throat. “The boy was confirmed dead at <b>2:04 AM</b>.”",
       "title": "When Devils Sing",
       "author": "Xan Kaur",
+      "asin": "",
+      "weight": 2.0
+    },
+    {
+      "quote": "Ted stared at it, his head cocked, like it didn’t compute.<br>“What does that mean?” Ethan asked.<br>“There’s a missing data field. From <b>2:04 a.m.</b> until 4:33 a.m.”<br>“How is that possible?”<br>“Someone deleted it. Let me try one other thing.”",
+      "title": "Wayward",
+      "author": "Blake Crouch",
       "asin": "",
       "weight": 2.0
     }
@@ -2224,6 +2245,13 @@
       "author": "Adam Loxley",
       "asin": "1848769202",
       "weight": 1.0
+    },
+    {
+      "quote": "Ethan checked his watch—<b>3:08 a.m.</b><br>It wasn’t like Kate to be eight minutes late to anything.",
+      "title": "Wayward",
+      "author": "Blake Crouch",
+      "asin": "",
+      "weight": 2.0
     }
   ],
   "03:09": [
@@ -3144,6 +3172,13 @@
       "author": "Jason Dean",
       "asin": "B007FXIFFC",
       "weight": 1.0
+    },
+    {
+      "quote": "Ted stared at it, his head cocked, like it didn’t compute.<br>“What does that mean?” Ethan asked.<br>“There’s a missing data field. From 2:04 a.m. until <b>4:33 a.m.</b>”<br>“How is that possible?”<br>“Someone deleted it. Let me try one other thing.”",
+      "title": "Wayward",
+      "author": "Blake Crouch",
+      "asin": "",
+      "weight": 2.0
     }
   ],
   "04:34": [
@@ -6769,6 +6804,13 @@
       "author": "P. G. Wodehouse",
       "asin": "B0101UW6HS",
       "weight": 1.0
+    },
+    {
+      "quote": "“I believe you had dinner with Brad and his wife last night. It’s <b>10:11 a.m.</b>, and Mr. Fisher is in his law office. Right where he’s supposed to be. Of course, all this data can be massaged any number of ways.”",
+      "title": "Wayward",
+      "author": "Blake Crouch",
+      "asin": "",
+      "weight": 2.0
     }
   ],
   "10:12": [
@@ -10241,6 +10283,13 @@
       "author": "Aldous Huxley",
       "asin": "B07VND8N5D",
       "weight": 1.0
+    },
+    {
+      "quote": "The lobby of the hospital was empty.<br>Theresa took the elevator to the third floor, stepped out into the hallway, checked the time.<br><b>3:29</b>.<br>The corridor was long.<br>Fluorescent lights hummed above the checkerboard floor. Theresa walked halfway down until she reached the chair sitting outside a closed, unmarked door.",
+      "title": "Wayward",
+      "author": "Blake Crouch",
+      "asin": "",
+      "weight": 2.0
     }
   ],
   "15:30": [
@@ -15825,69 +15874,6 @@
       "quote": "It was indeed late—only <b>a few moments shy of midnight</b>, according to the grandfather clock. We had chosen that hour for our visit so as to encounter the smallest number of scholars, for neither of us had much interest in being waylaid by inquisitors, of which there would be many in the department.",
       "title": "Emily Wilde’s Compendium of Lost Tales",
       "author": "Heather Fawcett",
-      "asin": "",
-      "weight": 2.0
-    }
-  ],
-  "15:29": [
-  {
-      "quote": "The lobby of the hospital was empty.<br>Theresa took the elevator to the third floor, stepped out into the hallway, checked the time.<br><b>3:29</b>.<br>The corridor was long.<br>Fluorescent lights hummed above the checkerboard floor. Theresa walked halfway down until she reached the chair sitting outside a closed, unmarked door.",
-      "title": "Wayward",
-      "author": "Blake Crouch",
-      "asin": "",
-      "weight": 2.0
-    }
-  ],
-  "10:11": [
-  {
-      "quote": "“I believe you had dinner with Brad and his wife last night. It’s <b>10:11 a.m.</b>, and Mr. Fisher is in his law office. Right where he’s supposed to be. Of course, all this data can be massaged any number of ways.”",
-      "title": "Wayward",
-      "author": "Blake Crouch",
-      "asin": "",
-      "weight": 2.0
-    }
-  ],
-  "03:08": [
-  {
-      "quote": "Ethan checked his watch—<b>3:08 a.m.</b><br>It wasn’t like Kate to be eight minutes late to anything.",
-      "title": "Wayward",
-      "author": "Blake Crouch",
-      "asin": "",
-      "weight": 2.0
-    }
-  ],
-  "01:49": [
-  {
-      "quote": "Pam took a backstreet that ran parallel to Main.<br>“Now what’s our time?”<br>“<b>1:49 a.m.</b>”<br>“Can we actually see her on camera?”<br>“Weird.”",
-      "title": "Wayward",
-      "author": "Blake Crouch",
-      "asin": "",
-      "weight": 2.0
-    }
-  ],
-  "01:59": [
-  {
-      "quote": "You were there. The night of Alyssa’s death, you were watching when she and Kate split up.<br>Ted said, “Maybe if you told me what you’re looking for, I could help you.”<br>At <b>1:59</b>, Pam started moving south.And then you followed Alyssa.",
-      "title": "Wayward",
-      "author": "Blake Crouch",
-      "asin": "",
-      "weight": 2.0
-    }
-  ],
-  "02:04": [
-  {
-      "quote": "Ted stared at it, his head cocked, like it didn’t compute.<br>“What does that mean?” Ethan asked.<br>“There’s a missing data field. From <b>2:04 a.m.</b> until 4:33 a.m.”<br>“How is that possible?”<br>“Someone deleted it. Let me try one other thing.”",
-      "title": "Wayward",
-      "author": "Blake Crouch",
-      "asin": "",
-      "weight": 2.0
-    }
-  ],
-  "04:33": [
-  {
-      "quote": "Ted stared at it, his head cocked, like it didn’t compute.<br>“What does that mean?” Ethan asked.<br>“There’s a missing data field. From 2:04 a.m. until <b>4:33 a.m.</b>”<br>“How is that possible?”<br>“Someone deleted it. Let me try one other thing.”",
-      "title": "Wayward",
-      "author": "Blake Crouch",
       "asin": "",
       "weight": 2.0
     }
